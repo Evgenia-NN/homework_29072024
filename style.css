@@ -1,0 +1,22 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.conteiner-banner {
+    background-image: url(images/background_fon.jpg);
+    background-attachment: fixed;
+}
+
+.conteiner {
+    width: 1400px;
+    background-color: rgb(149, 64, 228, 0.3);
+    margin: 0px auto;
+    padding: 80px;
+}
+
+.text {
+    font-size: 2em;
+    color: white;
+}
